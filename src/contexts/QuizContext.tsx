@@ -6,7 +6,7 @@ import React, {
   useEffect,
 } from "react";
 import { collection, getDocs } from "firebase/firestore";
-import { db } from "../firebase"; // Adjust the import path as needed
+import { db } from "../firebase.ts"; // Adjust the import path as needed
 
 export interface Country {
   id: string;
