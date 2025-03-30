@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+capitals.csv
+country-capital-quiz-firebase-adminsdk.json
+importData.js
+firebase.js
