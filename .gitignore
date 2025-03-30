@@ -26,4 +26,3 @@ dist-ssr
 capitals.csv
 country-capital-quiz-firebase-adminsdk.json
 importData.js
-firebaseConfig.js
